@@ -1,0 +1,1 @@
+## Manual implemetation of backpropagation
